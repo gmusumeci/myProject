@@ -1,0 +1,4 @@
+myProject
+=========
+
+First repository created
