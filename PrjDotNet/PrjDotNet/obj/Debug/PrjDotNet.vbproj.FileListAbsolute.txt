@@ -1,0 +1,11 @@
+C:\Users\pc04\Documents\Visual Studio 2013\Projects\PrjDotNet\PrjDotNet\obj\Debug\PrjDotNet.vbprojResolveAssemblyReference.cache
+C:\Users\pc04\Documents\Visual Studio 2013\Projects\PrjDotNet\PrjDotNet\obj\Debug\PrjDotNet.Resources.resources
+C:\Users\pc04\Documents\Visual Studio 2013\Projects\PrjDotNet\PrjDotNet\obj\Debug\PrjDotNet.vbproj.GenerateResource.Cache
+C:\Users\pc04\Documents\Visual Studio 2013\Projects\PrjDotNet\PrjDotNet\bin\Debug\PrjDotNet.pdb
+C:\Users\pc04\Documents\Visual Studio 2013\Projects\PrjDotNet\PrjDotNet\bin\Debug\PrjDotNet.xml
+C:\Users\pc04\Documents\Visual Studio 2013\Projects\PrjDotNet\PrjDotNet\bin\Debug\ProjNet.dll
+C:\Users\pc04\Documents\Visual Studio 2013\Projects\PrjDotNet\PrjDotNet\bin\Debug\ProjNet.xml
+C:\Users\pc04\Documents\Visual Studio 2013\Projects\PrjDotNet\PrjDotNet\obj\Debug\PrjDotNet.xml
+C:\Users\pc04\Documents\Visual Studio 2013\Projects\PrjDotNet\PrjDotNet\obj\Debug\PrjDotNet.pdb
+C:\Users\pc04\Documents\Visual Studio 2013\Projects\PrjDotNet\PrjDotNet\bin\Debug\PrjDotNet.exe
+C:\Users\pc04\Documents\Visual Studio 2013\Projects\PrjDotNet\PrjDotNet\obj\Debug\PrjDotNet.exe
